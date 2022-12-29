@@ -1,4 +1,4 @@
-**Message-Passing-Interface** 
+## Message-Passing-Interface
 
 This project is composed of two different programs where the first one calls the second one multiple times and where the former does a matrix multiplication computation by sharing the work with its copies over shared memory.  
 
